@@ -17,6 +17,7 @@
   "author": "740757510@qq.com",
   "license": "MIT",
   "dependencies": {
+    "promise-polyfill": "^8.0.0",
     "redux": "^3.7.2",
     "redux-actions": "^2.2.1",
     "redux-promise": "^0.5.3",
