@@ -33,7 +33,9 @@
           </view>
         </view>
       </view>
-
+      <view>
+        如果你还不是 jinpengbbs 用户可以 <navigator url="/pages/auth/register" class="weui-agree__link">注册新用户</navigator>
+      </view>
       <view class="weui-btn-area">
         <button class="weui-btn" type="primary" @tap="submit">登录</button>
       </view>
